@@ -1,0 +1,5 @@
+Source Code: 
+https://appliedmachinelearning.blog/2019/12/31/extractive-text-summarization-using-glove-vectors/
+
+Download Link for Globe Vector DB:
+http://nlp.stanford.edu/data/glove.42B.300d.zip
